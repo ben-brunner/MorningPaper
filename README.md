@@ -10,6 +10,6 @@ Designed with AntDesign library.
 - Encrypted Sign-in/Sign-up + user settings saved in NoSQL database
 - News displayed by category and source (thanks to NewsAPI)
 - Switch countries and sources in one click of the flag
-- Articles can be added to a "liked" section of the web app
+- Articles can be added to a "liked" section of the web app, and deleted
 
 
